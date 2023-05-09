@@ -224,7 +224,7 @@ Goals:
 * Make all microservices stateless.
   * note: For Vaadin Flow application a Kubernetes kit must be included. This kit needs a commercial license so it is
   not included in this repository.
-* Rename all packages and libraries for new brand `AI Legorreta®`
+* Rename all packages and libraries for new brand `AI Legorreta®`.
 
 #### Migration Docker architecture to Kubernetes
 
