@@ -234,11 +234,11 @@ of the Kubernetes CRI (Container Runtime Interface).
 
 The docker image is shown in this figure:
 
-<img src="./images/DockerArch.png"/>
+<img src="./images/DockerArch.png" alt="Docker architure"/>
 
 And the Kubernetes architecture is shown:
 
-<img src="./images/KubernetesArch.png"/>
+<img src="./images/KubernetesArch.png" alt="Kubernetes architecture"/>
 
 Where the main differences in terms of migration are:
 * The docker images are deployed in Kubernetes with the `Titl` files.
