@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3             # Checks out the current Git repository (config-service)
       - name: Set up JDK
         uses: actions/setup-java@v3           # Install and configures a Java runtime
-        with:                                 # Defines which version, distribution, and cache type to use
+        with:                                 # Defines which version, distribution, and cache type to use.
           distribution: temurin
           java-version: 17
           cache: gradle
